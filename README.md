@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marcere
+- 👀 I’m interested in neural networks and software architecture
+- 🌱 I’m currently learning relational and no relational databases (SQL and NOSQL)
+- 📫 Can get me on telegram t.me/marcere23
